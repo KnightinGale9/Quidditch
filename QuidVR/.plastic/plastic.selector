@@ -1,0 +1,4 @@
+repository "QuidVR@NOG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
